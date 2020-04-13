@@ -1,0 +1,104 @@
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error m,essage')
+Exception: generic error m,essage
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
+Traceback (most recent call last):
+  File "C:/Users/Dan/Desktop/PythonScripts/debugging.py", line 35, in <module>
+    raise Exception('generic error message')
+Exception: generic error message
